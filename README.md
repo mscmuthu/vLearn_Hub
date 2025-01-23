@@ -11,7 +11,7 @@ List the key features of the project, e.g.:
 Interactive learning dashboards.
 Automated batch and attendance management.
 AI-based analytics for student progress.
-Seamless integration with external systems (like uEducate Kampus).
+Seamless integration with external systems.
 Mobile-first responsive design.
 
 Technologies Used
